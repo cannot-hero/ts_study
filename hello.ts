@@ -1,2 +1,2 @@
-var message: string = 'hello shushu'
+var message: string = 'hello shushus'
 console.log(message)
