@@ -1,0 +1,11 @@
+{
+  "name": "my-ts-study",
+  "version": "1.0.0",
+  "description": "My ts study",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ma Bio",
+  "license": "ISC"
+}
